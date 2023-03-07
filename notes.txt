@@ -1,0 +1,27 @@
+Pages
+------------------
+
+-----------------
+| Navbar header |
+-----------------
+
+Home (About)
+    - profile picture
+    - brief bio
+    - some decorating pictures
+Lessons
+    - What I teach
+    - Policies
+    - Get in touch
+Arranging
+    - Summary of work
+    - Links to pianopronto, etc.
+    - Free samples
+Accompaniment
+    - Summary of work
+    - pics?
+    - some custom arrangements
+
+------------------
+| Contact Footer |
+------------------

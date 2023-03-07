@@ -1,0 +1,52 @@
+/* Color Theme */
+:root {
+    --ivory: #FFFFF0;
+    --cool-gray:#8C92AC;
+    --russian-violet:#0B0033;
+    --bistre:#432818;
+    --dark-slate-gray:#2A3C37;
+    --midnight-green:#104F55;
+}
+
+
+/* Overall */
+body {
+    background-color: var(--ivory);
+}
+
+
+/* Navbar */
+.navbar {
+    background-color: var(--russian-violet);
+}
+
+
+/* Page Body */
+.piano-head {
+    position: absolute
+}
+
+.profile-container {
+    text-align:center;
+    padding: 30px 0px;
+}
+
+.profile {
+    border-radius: 50%;
+    width: 50%;
+    border: 5px solid black;
+}
+
+.about-container {
+    padding: 30px 0px
+}
+
+
+/* Footer */
+.icon {
+    width: 30px
+}
+
+.footer {
+    text-align: center;
+}
