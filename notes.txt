@@ -25,3 +25,8 @@ Accompaniment
 ------------------
 | Contact Footer |
 ------------------
+
+
+Things to do:
+
+put navbar and footer in template
